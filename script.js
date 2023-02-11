@@ -21,7 +21,7 @@ console.log(divv);
 
     // <img src="${imagee}" width="100%" height="180" class="card-img-top" alt="no image available">
     spann.innerHTML = 
-    `<div class="card border border-dark border-3 border-opacity-25 rounded-2" style="width: 18rem;">
+    `<div class="card border border-dark border-2 border-opacity-20 rounded-4" style="width: 15rem;">
     <img src="${imagee}" width="100%" height="180" class="card-img-top" alt="no image available">
   
     <div class="card-body">
